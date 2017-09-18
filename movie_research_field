@@ -32,29 +32,29 @@
 
 ### Dataset:
 
-- [MovieQA](http://movieqa.cs.toronto.edu/home/)
-- [LSMDC:MPII-MD](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/vision-and-language/mpii-movie-description-dataset/request-access-to-mpii-movie-description-dataset/)
+      - [MovieQA](http://movieqa.cs.toronto.edu/home/)
+      - [LSMDC:MPII-MD](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/vision-and-language/mpii-movie-description-dataset/request-access-to-mpii-movie-description-dataset/)
 
 --------------------------------------------------------------------------------------------------------------------
 ###  Project links 
 
-- [Describingmovies workshop-at-iccv-17](https://sites.google.com/site/describingmovies/workshop-at-iccv-17)
+      - [Describingmovies workshop-at-iccv-17](https://sites.google.com/site/describingmovies/workshop-at-iccv-17)
 
 
 --------------------------------------------------------------------------------------------------------------------
 ### Challange
--[LSMDC](https://sites.google.com/site/describingmovies/home)
-  - Movie description
-  - Movie annotation and retrieval
-  - Movie  fill-in-the-blank task
--[MovieQA](http://movieqa.cs.toronto.edu/home/)
-  - Question-answering in movies
-  - Video retrieval based on plot synopses sentences
+      - [LSMDC](https://sites.google.com/site/describingmovies/home)
+              - Movie description
+              - Movie annotation and retrieval
+              - Movie  fill-in-the-blank task
+      - [MovieQA](http://movieqa.cs.toronto.edu/home/)
+              - Question-answering in movies
+              - Video retrieval based on plot synopses sentences
 
- - LeaderBoard
- 
--[The Large Scale Movie Description Challenge (LSMDC) 2017 : Movie Description](https://competitions.codalab.org/competitions/6121#results)       
--[MovieQA](http://movieqa.cs.toronto.edu/leaderboard/)
+       - LeaderBoard
+
+            - [The Large Scale Movie Description Challenge (LSMDC) 2017 : Movie Description](https://competitions.codalab.org/competitions/6121#results)       
+            - [MovieQA](http://movieqa.cs.toronto.edu/leaderboard/)
       --------------------------------------------------------------------------------------------------------------------
 
 
