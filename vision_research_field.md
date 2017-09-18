@@ -43,15 +43,16 @@
 
 --------------------------------------------------------------------------------------------------------------------
 ### Challange
-    - [LSMDC](https://sites.google.com/site/describingmovies/home)
-        - Movie description
-        - Movie annotation and retrieval
-        - Movie  fill-in-the-blank task
-    - [MovieQA](http://movieqa.cs.toronto.edu/home/)
-        - Question-answering in movies
-        - Video retrieval based on plot synopses sentences
+ - [LSMDC](https://sites.google.com/site/describingmovies/home)
+  - Movie description
+  - Movie annotation and retrieval
+  - Movie  fill-in-the-blank task
+ - [MovieQA](http://movieqa.cs.toronto.edu/home/)
+  - Question-answering in movies
+  - Video retrieval based on plot synopses sentences
         
  - LeaderBoard
+ 
         -[The Large Scale Movie Description Challenge (LSMDC) 2017 : Movie Description](https://competitions.codalab.org/competitions/6121#results)       
         -[MovieQA](http://movieqa.cs.toronto.edu/leaderboard/)
 --------------------------------------------------------------------------------------------------------------------
